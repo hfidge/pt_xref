@@ -3,8 +3,8 @@
     "GlobalBrandId":"9999110",
     "GenericName":"Lyrica",
     "CountryBrandId":"9999110",
-    "CountryBrandName":"LyricaÂ® (pregabalina)",
-    "CountryDisplayName":"Lyrica CÃ¡psulas Via oral",
+    "CountryBrandName":"Lyrica® (pregabalina)",
+    "CountryDisplayName":"Lyrica® (pregabalina)",
     "CountryGenericName":"Pregabalina",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -12,24 +12,16 @@
     "LanguageCode":"pt",
     "Indications":[
       {
-        "IndicationName":"Dor neuropÃ¡tica",
-        "Description":"Lyrica estÃ¡ indicado no tratamento da dor neuropÃ¡tica perifÃ©rica e central, em adultos."
+        "IndicationName":"Dor neuropática",
+        "Description":"Lyrica está indicado no tratamento  da dor neuropática periférica  e central, em adultos."
       },
       {
         "IndicationName":"Epilepsia",
-        "Description":"Lyrica estÃ¡ indicado como terapÃªutica adjuvante em adultos com crises parciais de epilepsia, com ou sem generalizaÃ§Ã£o secundÃ¡ria."
+        "Description":"Lyrica está indicado como terapêutica adjuvante  em adultos com crises parciais de epilepsia,  com ou sem generalização secundária."
       },
       {
-        "IndicationName":"PerturbaÃ§Ã£o de Ansiedade Generalizada",
-        "Description":"Lyrica estÃ¡ indicado no tratamento da PerturbaÃ§Ã£o de Ansiedade Generalizada (PAG), em adultos"
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "IndicationName":"Perturbação de Ansiedade Generalizada",
+        "Description":"Lyrica está indicado no tratamento da Perturbação de Ansiedade Generalizada (PAG), em adultos"
       }
     ]
   },
@@ -37,8 +29,8 @@
     "GlobalBrandId":"9999036",
     "GenericName":"Celebrex",
     "CountryBrandId":"9999036",
-    "CountryBrandName":"CelebrexÂ® (celecoxib)",
-    "CountryDisplayName":"Celebrex CÃ¡psulas Via oral",
+    "CountryBrandName":"Celebrex® (celecoxib)",
+    "CountryDisplayName":"Celebrex® (celecoxib)",
     "CountryGenericName":"Celecoxib",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -46,24 +38,8 @@
     "LanguageCode":"pt",
     "Indications":[
       {
-        "IndicationName":"Dor da osteoartrite, da artrite reumatoide e da espondilite anquilosante",
-        "Description":"Celebrex estÃ¡ indicado para o alÃ­vio sintomÃ¡tico no tratamento da osteoartrite, da artrite reumatoide e da espondilite anquilosante."
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "IndicationName":"Dor da osteoartrite,  da artrite reumatoide e da espondilite anquilosante",
+        "Description":"Celebrex está indicado para o alívio sintomático no tratamento da osteoartrite, da artrite reumatoide e da espondilite anquilosante."
       }
     ]
   },
@@ -71,8 +47,8 @@
     "GlobalBrandId":"9999016",
     "GenericName":"Arthrotec",
     "CountryBrandId":"9999016",
-    "CountryBrandName":"ArthrotecÂ® (diclofenac & misoprostol)",
-    "CountryDisplayName":"Arthrotec Comprimidos, Via Oral",
+    "CountryBrandName":"Arthrotec® (diclofenac & misoprostol)",
+    "CountryDisplayName":"Arthrotec® (diclofenac & misoprostol)",
     "CountryGenericName":"Diclofenac/Misoprostol",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -81,23 +57,7 @@
     "Indications":[
       {
         "IndicationName":"Artrite Reumatoide e Osteoartrose",
-        "Description":"Arthrotec estÃ¡ indicado no tratamento dos sinais e sintomas da artrite reumatoide e da osteoartrose em fase aguda ou crÃ³nica, particularmente em doentes com histÃ³ria conhecida ou suspeita de intolerÃ¢ncia gÃ¡strica ou hemorragia digestiva devida ao uso de anti-inflamatÃ³rios."
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "Description":"Arthrotec está indicado no tratamento dos sinais e sintomas da artrite reumatoide e da osteoartrose em fase aguda ou crónica, particularmente em doentes com história conhecida ou suspeita de intolerância gástrica ou hemorragia digestiva devida ao uso de anti-inflamatórios."
       }
     ]
   },
@@ -105,8 +65,8 @@
     "GlobalBrandId":"9999105",
     "GenericName":"Atorvastatine",
     "CountryBrandId":"9999105",
-    "CountryBrandName":"ZaratorÂ® (atorvastatina)",
-    "CountryDisplayName":"Zarator comprimidos revestidos por pelÃ­cula e comprimidos para mastigar Via oral",
+    "CountryBrandName":"Zarator® (atorvastatina)",
+    "CountryDisplayName":"Zarator® (atorvastatina)",
     "CountryGenericName":"Atorvastatina",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -115,23 +75,11 @@
     "Indications":[
       {
         "IndicationName":"Hipercolesterolemia",
-        "Description":"Zarator estÃ¡ indicado como adjuvante da dieta para a reduÃ§Ã£o de nÃ­veis elevados de colesterol total (C-total), colesterol LDL (C-LDL), apolipoproteÃ­na B e triglicÃ©ridos em adultos, adolescentes e crianÃ§as com idade igual ou superior a 10 anos com hipercolesterolemia primÃ¡ria incluindo hipercolesterolemia familiar (variante heterozigÃ³tica) ou hiperlipidemia combinada (mista) (correspondente aos Tipos IIa e IIb da ClassificaÃ§Ã£o de Fredrickson), quando a resposta Ã  dieta e a outras medidas nÃ£o farmacolÃ³gicas Ã© inadequada. Zarator tambÃ©m estÃ¡ indicado na reduÃ§Ã£o do colesterol total e colesterol LDL em adultos com hipercolesterolemia familiar homozigÃ³tica como adjuvante a outras terapÃªuticas para a reduÃ§Ã£o de lÃ­pidos (por ex., aferese das LDL), ou quando essas terapÃªuticas nÃ£o estÃ£o disponÃ­veis."
+        "Description":"Zarator está indicado como adjuvante da dieta para a redução de níveis elevados de colesterol total (C-total), colesterol LDL (C-LDL), apolipoproteína B e triglicéridos em adultos, adolescentes e crianças com idade igual ou superior a 10 anos com hipercolesterolemia primária incluindo hipercolesterolemia familiar (variante heterozigótica) ou hiperlipidemia combinada (mista) (correspondente aos Tipos IIa e IIb da Classificação de Fredrickson), quando a resposta à dieta e a outras medidas não farmacológicas é inadequada.   Zarator também está indicado na redução do colesterol total e colesterol LDL em adultos com hipercolesterolemia familiar homozigótica como adjuvante a outras terapêuticas para a redução de lípidos (por ex., aferese das LDL), ou quando essas terapêuticas não estão disponíveis."
       },
       {
-        "IndicationName":"PrevenÃ§ao da doenÃ§a cardiovascular",
-        "Description":"Zarator estÃ¡ indicado na prevenÃ§ao de eventos cardiovasculares em doentes adultos nos quais se estima existir um risco elevado de ocorrÃªncia do primeiro evento cardiovascular."
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "IndicationName":"Prevençao da doença cardiovascular",
+        "Description":"Zarator está indicado na prevençao de eventos cardiovasculares em doentes adultos nos quais se estima existir um risco elevado de ocorrência do primeiro evento cardiovascular."
       }
     ]
   },
@@ -139,8 +87,8 @@
     "GlobalBrandId":"9999124",
     "GenericName":"Amlodipine",
     "CountryBrandId":"9999124",
-    "CountryBrandName":"NorvascÂ® (amlodipina)",
-    "CountryDisplayName":"Norvasc comprimidos via oral",
+    "CountryBrandName":"Norvasc® (amlodipina)",
+    "CountryDisplayName":"Norvasc® (amlodipina)",
     "CountryGenericName":"Amlodipina",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -148,7 +96,7 @@
     "LanguageCode":"pt",
     "Indications":[
       {
-        "IndicationName":"HipertensÃ£o",
+        "IndicationName":"Hipertensão",
         "Description":""
       },
       {
@@ -156,15 +104,7 @@
         "Description":""
       },
       {
-        "IndicationName":"Angina vasospÃ¡stica (de Prinzmetal)",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
+        "IndicationName":"Angina vasospástica (de Prinzmetal)",
         "Description":""
       }
     ]
@@ -173,8 +113,8 @@
     "GlobalBrandId":"9999067",
     "GenericName":"Effexor",
     "CountryBrandId":"9999067",
-    "CountryBrandName":"EffexorÂ® (venlaflaxina)",
-    "CountryDisplayName":"Effexor capsulas Via oral",
+    "CountryBrandName":"Effexor® (venlaflaxina)",
+    "CountryDisplayName":"Effexor® (venlaflaxina)",
     "CountryGenericName":"Venlaflaxina",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -182,33 +122,25 @@
     "LanguageCode":"pt",
     "Indications":[
       {
-        "IndicationName":"DepressÃ£o major",
-        "Description":"Effexor estÃ¡ indicado para o tratamento de episÃ³dios depressivos major. PrevenÃ§Ã£o da recorrÃªncia de episÃ³dios depressivos major."
+        "IndicationName":"Depressão major",
+        "Description":"Effexor está indicado para o tratamento de episódios depressivos major.  Prevenção da recorrência de episódios depressivos major."
       },
       {
         "IndicationName":"Ansiedade",
-        "Description":"Effexor estÃ¡ indicado no tratamento da perturbaÃ§Ã£o de ansiedade generalizada e no tratamento da perturbaÃ§Ã£o de ansiedade social."
+        "Description":"Effexor está indicado no tratamento da perturbação de ansiedade generalizada e no tratamento da perturbação de ansiedade social."
       },
       {
-        "IndicationName":"PerturbaÃ§Ã£o de pÃ¢nico",
-        "Description":"Effexor estÃ¡ indicado no tratamento da perturbaÃ§Ã£o de pÃ¢nico, com ou sem agorafobia"
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "IndicationName":"Perturbação de pânico",
+        "Description":"Effexor está indicado no tratamento da perturbação de pânico, com ou sem agorafobia"
       }
     ]
   },
   {
-    "GlobalBrandId":"9999555",
+    "GlobalBrandId":"9999158",
     "GenericName":"Zoloft",
-    "CountryBrandId":"9999555",
-    "CountryBrandName":"ZoloftÂ® (sertralina)",
-    "CountryDisplayName":"Zoloft comprimidos e concentrado Oral",
+    "CountryBrandId":"9999158",
+    "CountryBrandName":"Zoloft® (sertralina)",
+    "CountryDisplayName":"Zoloft® (sertralina)",
     "CountryGenericName":"Sertralina",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -216,23 +148,23 @@
     "LanguageCode":"pt",
     "Indications":[
       {
-        "IndicationName":"DepressÃ£o major",
-        "Description":"Zoloft estÃ¡ indicado para episÃ³dios depressivos major. PrevenÃ§Ã£o de recorrÃªncia de episÃ³dios depressivos major."
+        "IndicationName":"Depressão major",
+        "Description":"Zoloft está indicado para episódios depressivos major. Prevenção de recorrência de episódios depressivos major."
       },
       {
-        "IndicationName":"PerturbaÃ§Ã£o de pÃ¢nico",
+        "IndicationName":"Perturbação de pânico",
         "Description":""
       },
       {
-        "IndicationName":"PerturbaÃ§Ã£o Obsessiva-Compulsiva",
+        "IndicationName":"Perturbação Obsessiva-Compulsiva",
         "Description":""
       },
       {
-        "IndicationName":"PerturbaÃ§Ã£o de ansiedade social",
+        "IndicationName":"Perturbação de ansiedade social",
         "Description":""
       },
       {
-        "IndicationName":"PerturbaÃ§Ã£o de Stress PÃ³s-TraumÃ¡tico",
+        "IndicationName":"Perturbação de Stress Pós-Traumático",
         "Description":""
       }
     ]
@@ -241,8 +173,8 @@
     "GlobalBrandId":"9999147",
     "GenericName":"Sermion",
     "CountryBrandId":"9999147",
-    "CountryBrandName":"SermionÂ® (nicergolina)",
-    "CountryDisplayName":"Sermion Comprimidos revestidos por pelÃ­cula Via oral",
+    "CountryBrandName":"Sermion® (nicergolina)",
+    "CountryDisplayName":"Sermion® (nicergolina)",
     "CountryGenericName":"Nicergolina",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -250,33 +182,17 @@
     "LanguageCode":"pt",
     "Indications":[
       {
-        "IndicationName":"DemÃªncia",
-        "Description":"PrevenÃ§Ã£o da recorrÃªncia de episÃ³dios depressivos major."
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "IndicationName":"Demência",
+        "Description":"Prevenção da recorrência de episódios depressivos major."
       }
     ]
   },
   {
-    "GlobalBrandId":"9999169",
+    "GlobalBrandId":"9999258",
     "GenericName":"Xanax",
-    "CountryBrandId":"9999169",
-    "CountryBrandName":"XanaxÂ® (alprazolam)",
-    "CountryDisplayName":"Xanax comprimidos via oral",
+    "CountryBrandId":"9999258",
+    "CountryBrandName":"Xanax® (alprazolam)",
+    "CountryDisplayName":"Xanax® (alprazolam)",
     "CountryGenericName":"Alprazolam",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -285,23 +201,11 @@
     "Indications":[
       {
         "IndicationName":"Ansiedade",
-        "Description":"Estados ansiosos (neuroses de ansiedade): Os sintomas que ocorrem nestes doentes, incluem ansiedade, tensÃ£o, agitaÃ§Ã£o, insÃ³nia, apreensÃ£o, irritabilidade e/ou hiperatividade vegetativa, resultando em queixas somÃ¡ticas variadas. Ansiedade em doentes com depressÃ£o: Sintomas simultÃ¢neos de ansiedade e depressÃ£o ocorrem nestes doentes. Estados de ansiedade associados a outras situaÃ§Ãµes, como, por exemplo, a fase crÃ³nica abstinÃªncia do Ã¡lcool e doenÃ§as funcionais ou orgÃ¢nicas, particularmente certos transtornos gastrintestinais, cardiovasculares ou dermatolÃ³gicos."
+        "Description":"Estados ansiosos (neuroses de ansiedade):  Os sintomas que ocorrem nestes doentes, incluem ansiedade, tensão, agitação, insónia, apreensão, irritabilidade e/ou hiperatividade vegetativa, resultando em queixas somáticas variadas. Ansiedade em doentes com depressão: Sintomas simultâneos de ansiedade e depressão ocorrem nestes doentes. Estados de ansiedade associados a outras situações, como, por exemplo, a fase crónica abstinência do álcool e doenças funcionais ou orgânicas, particularmente certos transtornos gastrintestinais, cardiovasculares ou dermatológicos."
       },
       {
-        "IndicationName":"PerturbaÃ§Ãµes relacionadas com o pÃ¢nico",
-        "Description":"Xanax estÃ¡ indicado para o tratamento de doenÃ§a de pÃ¢nico, com ou sem evitamento fÃ³bico. Xanax estÃ¡ igualmente indicado para bloqueio ou atenuaÃ§Ã£o dos ataques de pÃ¢nico e fobias em doentes com agorafobia e ataques de pÃ¢nico."
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "IndicationName":"Perturbações relacionadas com o pânico",
+        "Description":"Xanax está indicado para o tratamento de doença de pânico, com ou sem evitamento fóbico. Xanax está igualmente indicado para bloqueio ou atenuação dos ataques de pânico e fobias em doentes com agorafobia e ataques de pânico."
       }
     ]
   },
@@ -309,8 +213,8 @@
     "GlobalBrandId":"9999181",
     "GenericName":"Zyvoxid",
     "CountryBrandId":"9999181",
-    "CountryBrandName":"ZyvoxidÂ® (linezolid)",
-    "CountryDisplayName":"Zyvoxid",
+    "CountryBrandName":"Zyvoxid® (linezolid)",
+    "CountryDisplayName":"Zyvoxid® (linezolid)",
     "CountryGenericName":"Linezolida",
     "Country":"Portugal",
     "CountryCode":"PT",
@@ -319,24 +223,753 @@
     "Indications":[
       {
         "IndicationName":"Tratamento da Pneumonia nosocomial",
-        "Description":"Tratamento de infecÃ§Ãµes complicadas da pele e tecidos moles, apenas quando os testes microbiolÃ³gicos estabelecerem que a infecÃ§Ã£o Ã© causada por bactÃ©rias Gram positivas susceptÃ­veis."
+        "Description":"Tratamento da pneumonia nosocomial, quando provocada ou quando se suspeite ter sido provocada por bactérias Gram-positivas susceptíveis."
       },
       {
-        "IndicationName":" Tratamento da infecÃ§Ãµes complicadas da pele e tecidos moles",
-        "Description":"Tratamento de infecÃ§Ãµes complicadas da pele e tecidos moles, apenas quando os testes microbiolÃ³gicos estabelecerem que a infecÃ§Ã£o Ã© causada por bactÃ©rias Gram positivas susceptÃ­veis."
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
-      },
-      {
-        "IndicationName":"",
-        "Description":""
+        "IndicationName":"Tratamento da infecções complicadas da pele e tecidos moles",
+        "Description":"Tratamento de infecções complicadas da pele e tecidos moles, apenas quando os testes microbiológicos estabelecerem que a infecção é causada por bactérias Gram positivas susceptíveis."
       }
     ]
+  },
+  {
+    "GlobalBrandId":"9999001",
+    "GenericName":"Xalacom",
+    "CountryBrandId":"9999001",
+    "CountryBrandName":"Xalacom® (latanoprost/timolol)",
+    "CountryDisplayName":"Xalacom® (latanoprost/timolol)",
+    "CountryGenericName":"latanoprost/timolol",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999002",
+    "GenericName":"Xalatan",
+    "CountryBrandId":"9999002",
+    "CountryBrandName":"Xalatan® (latanoprost)",
+    "CountryDisplayName":"Xalatan® (latanoprost)",
+    "CountryGenericName":"latanoprost",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999003",
+    "GenericName":"Viagra",
+    "CountryBrandId":"9999003",
+    "CountryBrandName":"Viagra ® (sildenafil)",
+    "CountryDisplayName":"Viagra ® (sildenafil)",
+    "CountryGenericName":"sildenafil",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999004",
+    "GenericName":"Minulet",
+    "CountryBrandId":"9999004",
+    "CountryBrandName":"Minulet® (etinilestradiol/gestodeno)",
+    "CountryDisplayName":"Minulet® (etinilestradiol/gestodeno)",
+    "CountryGenericName":"etinilestradiol/gestodeno",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999005",
+    "GenericName":"Harmonet",
+    "CountryBrandId":"9999005",
+    "CountryBrandName":"Harmonet® (gestodeno)",
+    "CountryDisplayName":"Harmonet® (gestodeno)",
+    "CountryGenericName":"gestodeno",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999006",
+    "GenericName":"Minesse",
+    "CountryBrandId":"9999006",
+    "CountryBrandName":"Minesse® (etinilestradiol/ gestodeno)",
+    "CountryDisplayName":"Minesse® (etinilestradiol/ gestodeno)",
+    "CountryGenericName":"etinilestradiol/ gestodeno",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999007",
+    "GenericName":"Feldene Gel*",
+    "CountryBrandId":"9999007",
+    "CountryBrandName":"Feldene Gel® (piroxicam)",
+    "CountryDisplayName":"Feldene Gel® (piroxicam)",
+    "CountryGenericName":"piroxicam",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999008",
+    "GenericName":"Debridat 200*",
+    "CountryBrandId":"9999008",
+    "CountryBrandName":"Debridat 200® (trimebutina)",
+    "CountryDisplayName":"Debridat 200® (trimebutina)",
+    "CountryGenericName":"trimebutina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999009",
+    "GenericName":"Combantrin*",
+    "CountryBrandId":"9999009",
+    "CountryBrandName":"Combantrin® (pirantel)",
+    "CountryDisplayName":"Combantrin® (pirantel)",
+    "CountryGenericName":"pirantel",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999010",
+    "GenericName":"Diflucan",
+    "CountryBrandId":"9999010",
+    "CountryBrandName":"Diflucan® (fluconazol)",
+    "CountryDisplayName":"Diflucan® (fluconazol)",
+    "CountryGenericName":"fluconazol",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999011",
+    "GenericName":"Trosyd",
+    "CountryBrandId":"9999011",
+    "CountryBrandName":"Trosyd® (tioconazol)",
+    "CountryDisplayName":"Trosyd® (tioconazol)",
+    "CountryGenericName":"tioconazol",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999012",
+    "GenericName":"Vibramicina",
+    "CountryBrandId":"9999012",
+    "CountryBrandName":"Vibramicina® (doxiciclina)",
+    "CountryDisplayName":"Vibramicina® (doxiciclina)",
+    "CountryGenericName":"doxiciclina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999013",
+    "GenericName":"Zithromax",
+    "CountryBrandId":"9999013",
+    "CountryBrandName":"Zithromax® (azitromicina)",
+    "CountryDisplayName":"Zithromax® (azitromicina)",
+    "CountryGenericName":"azitromicina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999014",
+    "GenericName":"Zeldox",
+    "CountryBrandId":"9999014",
+    "CountryBrandName":"Zeldox® (ziprasidona)",
+    "CountryDisplayName":"Zeldox® (ziprasidona)",
+    "CountryGenericName":"ziprasidona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999015",
+    "GenericName":"Neurontin",
+    "CountryBrandId":"9999015",
+    "CountryBrandName":"Neurontin® (gabapentina)",
+    "CountryDisplayName":"Neurontin® (gabapentina)",
+    "CountryGenericName":"gabapentina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999199",
+    "GenericName":"Aldactone",
+    "CountryBrandId":"9999199",
+    "CountryBrandName":"Aldactone® (espironolactona )",
+    "CountryDisplayName":"Aldactone® (espironolactona )",
+    "CountryGenericName":"espironolactona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999017",
+    "GenericName":"Nitradisc",
+    "CountryBrandId":"9999017",
+    "CountryBrandName":"Nitradisc® (nitroglicerina)",
+    "CountryDisplayName":"Nitradisc® (nitroglicerina)",
+    "CountryGenericName":"nitroglicerina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999018",
+    "GenericName":"Detrusitol Retard",
+    "CountryBrandId":"9999018",
+    "CountryBrandName":"Detrusitol Retard® (tolterrodina)",
+    "CountryDisplayName":"Detrusitol Retard® (tolterrodina)",
+    "CountryGenericName":"tolterrodina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999019",
+    "GenericName":"Cardura GITS",
+    "CountryBrandId":"9999019",
+    "CountryBrandName":"Cardura GITS® (doxazosina )",
+    "CountryDisplayName":"Cardura GITS® (doxazosina )",
+    "CountryGenericName":"doxazosina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999020",
+    "GenericName":"Dostinex",
+    "CountryBrandId":"9999020",
+    "CountryBrandName":"Dostinex® (cabergolina)",
+    "CountryDisplayName":"Dostinex® (cabergolina)",
+    "CountryGenericName":"cabergolina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999021",
+    "GenericName":"Minidiab",
+    "CountryBrandId":"9999021",
+    "CountryBrandName":"Minidiab® (glipizida)",
+    "CountryDisplayName":"Minidiab® (glipizida)",
+    "CountryGenericName":"glipizida",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999022",
+    "GenericName":"Caverject",
+    "CountryBrandId":"9999022",
+    "CountryBrandName":"Caverject® (alprostadil)",
+    "CountryDisplayName":"Caverject® (alprostadil)",
+    "CountryGenericName":"alprostadil",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999023",
+    "GenericName":"Depo-Provera",
+    "CountryBrandId":"9999023",
+    "CountryBrandName":"Depo-Provera® (medroxiprogesterona )",
+    "CountryDisplayName":"Depo-Provera® (medroxiprogesterona )",
+    "CountryGenericName":"medroxiprogesterona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999024",
+    "GenericName":"Provera 5 mg",
+    "CountryBrandId":"9999024",
+    "CountryBrandName":"Provera 5 mg® (medroxiprogesterona)",
+    "CountryDisplayName":"Provera 5 mg® (medroxiprogesterona)",
+    "CountryGenericName":"medroxiprogesterona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999025",
+    "GenericName":"Tri-Minulet",
+    "CountryBrandId":"9999025",
+    "CountryBrandName":"Tri-Minulet® (etinilestradiol/gestodeno)",
+    "CountryDisplayName":"Tri-Minulet® (etinilestradiol/gestodeno)",
+    "CountryGenericName":"etinilestradiol/gestodeno",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999026",
+    "GenericName":"Trinordiol",
+    "CountryBrandId":"9999026",
+    "CountryBrandName":"Trinordiol® (etinilestradiol/levonorgestrel)",
+    "CountryDisplayName":"Trinordiol® (etinilestradiol/levonorgestrel)",
+    "CountryGenericName":"etinilestradiol/levonorgestrel",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999027",
+    "GenericName":"Prostin E2",
+    "CountryBrandId":"9999027",
+    "CountryBrandName":"Prostin E2® (dinoprostona)",
+    "CountryDisplayName":"Prostin E2® (dinoprostona)",
+    "CountryGenericName":"dinoprostona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999028",
+    "GenericName":"Feldene",
+    "CountryBrandId":"9999028",
+    "CountryBrandName":"Feldene® (piroxicam)",
+    "CountryDisplayName":"Feldene® (piroxicam)",
+    "CountryGenericName":"piroxicam",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999030",
+    "GenericName":"Ponstan",
+    "CountryBrandId":"9999030",
+    "CountryBrandName":"Ponstan® (ácido mefenâmico)",
+    "CountryDisplayName":"Ponstan® (ácido mefenâmico)",
+    "CountryGenericName":"ácido mefenâmico",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999031",
+    "GenericName":"Depo-Medrol",
+    "CountryBrandId":"9999031",
+    "CountryBrandName":"Depo-Medrol® (acetato metilprednisolona)",
+    "CountryDisplayName":"Depo-Medrol® (acetato metilprednisolona)",
+    "CountryGenericName":"acetato metilprednisolona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999032",
+    "GenericName":"Depo-Medrol c/ lidocaína",
+    "CountryBrandId":"9999032",
+    "CountryBrandName":"Depo-Medrol c/ lidocaína® (acetato metilprednisolona/lidocaína)",
+    "CountryDisplayName":"Depo-Medrol c/ lidocaína® (acetato metilprednisolona/lidocaína)",
+    "CountryGenericName":"acetato metilprednisolona/lidocaína",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999033",
+    "GenericName":"Medrol",
+    "CountryBrandId":"9999033",
+    "CountryBrandName":"Medrol® (metilprednisolona)",
+    "CountryDisplayName":"Medrol® (metilprednisolona)",
+    "CountryGenericName":"metilprednisolona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999034",
+    "GenericName":"Solu- Cortef",
+    "CountryBrandId":"9999034",
+    "CountryBrandName":"Solu- Cortef® (succinato sódico hidrocortisona)",
+    "CountryDisplayName":"Solu- Cortef® (succinato sódico hidrocortisona)",
+    "CountryGenericName":"succinato sódico hidrocortisona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999035",
+    "GenericName":"Solu- Medrol",
+    "CountryBrandId":"9999035",
+    "CountryBrandName":"Solu- Medrol® (succinato sódico metilprednisolona)",
+    "CountryDisplayName":"Solu- Medrol® (succinato sódico metilprednisolona)",
+    "CountryGenericName":"succinato sódico metilprednisolona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999100",
+    "GenericName":"Cytotec",
+    "CountryBrandId":"9999100",
+    "CountryBrandName":"Cytotec® (misoprostol)",
+    "CountryDisplayName":"Cytotec® (misoprostol)",
+    "CountryGenericName":"misoprostol",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999037",
+    "GenericName":"Dalacin C",
+    "CountryBrandId":"9999037",
+    "CountryBrandName":"Dalacin C® (clindamicina )",
+    "CountryDisplayName":"Dalacin C® (clindamicina )",
+    "CountryGenericName":"clindamicina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999038",
+    "GenericName":"Dalacin T",
+    "CountryBrandId":"9999038",
+    "CountryBrandName":"Dalacin T® (clindamicina )",
+    "CountryDisplayName":"Dalacin T® (clindamicina )",
+    "CountryGenericName":"clindamicina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999039",
+    "GenericName":"Dalacin V",
+    "CountryBrandId":"9999039",
+    "CountryBrandName":"Dalacin V® (clindamicina )",
+    "CountryDisplayName":"Dalacin V® (clindamicina )",
+    "CountryGenericName":"clindamicina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999040",
+    "GenericName":"Fasigyn",
+    "CountryBrandId":"9999040",
+    "CountryBrandName":"Fasigyn® (tinidazol)",
+    "CountryDisplayName":"Fasigyn® (tinidazol)",
+    "CountryGenericName":"tinidazol",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999041",
+    "GenericName":"Lincocina",
+    "CountryBrandId":"9999041",
+    "CountryBrandName":"Lincocina® (lincomicina)",
+    "CountryDisplayName":"Lincocina® (lincomicina)",
+    "CountryGenericName":"lincomicina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999042",
+    "GenericName":"Mycobutin",
+    "CountryBrandId":"9999042",
+    "CountryBrandName":"Mycobutin® (rifabutina)",
+    "CountryDisplayName":"Mycobutin® (rifabutina)",
+    "CountryGenericName":"rifabutina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999043",
+    "GenericName":"Zithromax LP",
+    "CountryBrandId":"9999043",
+    "CountryBrandName":"Zithromax LP® (azitromicina)",
+    "CountryDisplayName":"Zithromax LP® (azitromicina)",
+    "CountryGenericName":"azitromicina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999044",
+    "GenericName":"Relert",
+    "CountryBrandId":"9999044",
+    "CountryBrandName":"Relert® (eletriptano)",
+    "CountryDisplayName":"Relert® (eletriptano)",
+    "CountryGenericName":"eletriptano",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999045",
+    "GenericName":"Lorenin",
+    "CountryBrandId":"9999045",
+    "CountryBrandName":"Lorenin® (lorazepam)",
+    "CountryDisplayName":"Lorenin® (lorazepam)",
+    "CountryGenericName":"lorazepam",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999046",
+    "GenericName":"Demetrin",
+    "CountryBrandId":"9999046",
+    "CountryBrandName":"Demetrin® (prazepam)",
+    "CountryDisplayName":"Demetrin® (prazepam)",
+    "CountryGenericName":"prazepam",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999047",
+    "GenericName":"Halcion",
+    "CountryBrandId":"9999047",
+    "CountryBrandName":"Halcion® (triazolam)",
+    "CountryDisplayName":"Halcion® (triazolam)",
+    "CountryGenericName":"triazolam",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999048",
+    "GenericName":"Edronax",
+    "CountryBrandId":"9999048",
+    "CountryBrandName":"Edronax® (reboxetina)",
+    "CountryDisplayName":"Edronax® (reboxetina)",
+    "CountryGenericName":"reboxetina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999049",
+    "GenericName":"Aricept",
+    "CountryBrandId":"9999049",
+    "CountryBrandName":"Aricept® (donepezilo )",
+    "CountryDisplayName":"Aricept® (donepezilo )",
+    "CountryGenericName":"donepezilo",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999050",
+    "GenericName":"Ketalar",
+    "CountryBrandId":"9999050",
+    "CountryBrandName":"Ketalar® (cetamina)",
+    "CountryDisplayName":"Ketalar® (cetamina)",
+    "CountryGenericName":"cetamina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999051",
+    "GenericName":"Acupril",
+    "CountryBrandId":"9999051",
+    "CountryBrandName":"Acupril® (quinapril )",
+    "CountryDisplayName":"Acupril® (quinapril )",
+    "CountryGenericName":"quinapril",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999052",
+    "GenericName":"Acuretic",
+    "CountryBrandId":"9999052",
+    "CountryBrandName":"Acuretic® (quinapril/  hidroclorotiazida)",
+    "CountryDisplayName":"Acuretic® (quinapril/  hidroclorotiazida)",
+    "CountryGenericName":"quinapril/  hidroclorotiazida",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999053",
+    "GenericName":"Aldactazine",
+    "CountryBrandId":"9999053",
+    "CountryBrandName":"Aldactazine® (espironolactona/ altiazida)",
+    "CountryDisplayName":"Aldactazine® (espironolactona/ altiazida)",
+    "CountryGenericName":"espironolactona/ altiazida",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999054",
+    "GenericName":"Fragmin",
+    "CountryBrandId":"9999054",
+    "CountryBrandName":"Fragmin® (dalteparina sódica)",
+    "CountryDisplayName":"Fragmin® (dalteparina sódica)",
+    "CountryGenericName":"dalteparina sódica",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999055",
+    "GenericName":"Ibustrin",
+    "CountryBrandId":"9999055",
+    "CountryBrandName":"Ibustrin® (indobufene)",
+    "CountryDisplayName":"Ibustrin® (indobufene)",
+    "CountryGenericName":"indobufene",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999056",
+    "GenericName":"Inspra",
+    "CountryBrandId":"9999056",
+    "CountryBrandName":"Inspra® (eplerenona)",
+    "CountryDisplayName":"Inspra® (eplerenona)",
+    "CountryGenericName":"eplerenona",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999057",
+    "GenericName":"Lopid",
+    "CountryBrandId":"9999057",
+    "CountryBrandName":"Lopid® (gemfibrozil)",
+    "CountryDisplayName":"Lopid® (gemfibrozil)",
+    "CountryGenericName":"gemfibrozil",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
+  },
+  {
+    "GlobalBrandId":"9999058",
+    "GenericName":"Prostin VR",
+    "CountryBrandId":"9999058",
+    "CountryBrandName":"Prostin VR® (alprostadil)",
+    "CountryDisplayName":"Prostin VR® (alprostadil)",
+    "CountryGenericName":"alprostadil",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[]
   }
 ]
