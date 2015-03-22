@@ -1,0 +1,342 @@
+[
+  {
+    "GlobalBrandId":"9999110",
+    "GenericName":"Lyrica",
+    "CountryBrandId":"9999110",
+    "CountryBrandName":"LyricaÂ® (pregabalina)",
+    "CountryDisplayName":"Lyrica CÃ¡psulas Via oral",
+    "CountryGenericName":"Pregabalina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"Dor neuropÃ¡tica",
+        "Description":"Lyrica estÃ¡ indicado no tratamento da dor neuropÃ¡tica perifÃ©rica e central, em adultos."
+      },
+      {
+        "IndicationName":"Epilepsia",
+        "Description":"Lyrica estÃ¡ indicado como terapÃªutica adjuvante em adultos com crises parciais de epilepsia, com ou sem generalizaÃ§Ã£o secundÃ¡ria."
+      },
+      {
+        "IndicationName":"PerturbaÃ§Ã£o de Ansiedade Generalizada",
+        "Description":"Lyrica estÃ¡ indicado no tratamento da PerturbaÃ§Ã£o de Ansiedade Generalizada (PAG), em adultos"
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999036",
+    "GenericName":"Celebrex",
+    "CountryBrandId":"9999036",
+    "CountryBrandName":"CelebrexÂ® (celecoxib)",
+    "CountryDisplayName":"Celebrex CÃ¡psulas Via oral",
+    "CountryGenericName":"Celecoxib",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"Dor da osteoartrite, da artrite reumatoide e da espondilite anquilosante",
+        "Description":"Celebrex estÃ¡ indicado para o alÃ­vio sintomÃ¡tico no tratamento da osteoartrite, da artrite reumatoide e da espondilite anquilosante."
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999016",
+    "GenericName":"Arthrotec",
+    "CountryBrandId":"9999016",
+    "CountryBrandName":"ArthrotecÂ® (diclofenac & misoprostol)",
+    "CountryDisplayName":"Arthrotec Comprimidos, Via Oral",
+    "CountryGenericName":"Diclofenac/Misoprostol",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"Artrite Reumatoide e Osteoartrose",
+        "Description":"Arthrotec estÃ¡ indicado no tratamento dos sinais e sintomas da artrite reumatoide e da osteoartrose em fase aguda ou crÃ³nica, particularmente em doentes com histÃ³ria conhecida ou suspeita de intolerÃ¢ncia gÃ¡strica ou hemorragia digestiva devida ao uso de anti-inflamatÃ³rios."
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999105",
+    "GenericName":"Atorvastatine",
+    "CountryBrandId":"9999105",
+    "CountryBrandName":"ZaratorÂ® (atorvastatina)",
+    "CountryDisplayName":"Zarator comprimidos revestidos por pelÃ­cula e comprimidos para mastigar Via oral",
+    "CountryGenericName":"Atorvastatina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"Hipercolesterolemia",
+        "Description":"Zarator estÃ¡ indicado como adjuvante da dieta para a reduÃ§Ã£o de nÃ­veis elevados de colesterol total (C-total), colesterol LDL (C-LDL), apolipoproteÃ­na B e triglicÃ©ridos em adultos, adolescentes e crianÃ§as com idade igual ou superior a 10 anos com hipercolesterolemia primÃ¡ria incluindo hipercolesterolemia familiar (variante heterozigÃ³tica) ou hiperlipidemia combinada (mista) (correspondente aos Tipos IIa e IIb da ClassificaÃ§Ã£o de Fredrickson), quando a resposta Ã  dieta e a outras medidas nÃ£o farmacolÃ³gicas Ã© inadequada. Zarator tambÃ©m estÃ¡ indicado na reduÃ§Ã£o do colesterol total e colesterol LDL em adultos com hipercolesterolemia familiar homozigÃ³tica como adjuvante a outras terapÃªuticas para a reduÃ§Ã£o de lÃ­pidos (por ex., aferese das LDL), ou quando essas terapÃªuticas nÃ£o estÃ£o disponÃ­veis."
+      },
+      {
+        "IndicationName":"PrevenÃ§ao da doenÃ§a cardiovascular",
+        "Description":"Zarator estÃ¡ indicado na prevenÃ§ao de eventos cardiovasculares em doentes adultos nos quais se estima existir um risco elevado de ocorrÃªncia do primeiro evento cardiovascular."
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999124",
+    "GenericName":"Amlodipine",
+    "CountryBrandId":"9999124",
+    "CountryBrandName":"NorvascÂ® (amlodipina)",
+    "CountryDisplayName":"Norvasc comprimidos via oral",
+    "CountryGenericName":"Amlodipina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"HipertensÃ£o",
+        "Description":""
+      },
+      {
+        "IndicationName":"Angina de peito",
+        "Description":""
+      },
+      {
+        "IndicationName":"Angina vasospÃ¡stica (de Prinzmetal)",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999067",
+    "GenericName":"Effexor",
+    "CountryBrandId":"9999067",
+    "CountryBrandName":"EffexorÂ® (venlaflaxina)",
+    "CountryDisplayName":"Effexor capsulas Via oral",
+    "CountryGenericName":"Venlaflaxina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"DepressÃ£o major",
+        "Description":"Effexor estÃ¡ indicado para o tratamento de episÃ³dios depressivos major. PrevenÃ§Ã£o da recorrÃªncia de episÃ³dios depressivos major."
+      },
+      {
+        "IndicationName":"Ansiedade",
+        "Description":"Effexor estÃ¡ indicado no tratamento da perturbaÃ§Ã£o de ansiedade generalizada e no tratamento da perturbaÃ§Ã£o de ansiedade social."
+      },
+      {
+        "IndicationName":"PerturbaÃ§Ã£o de pÃ¢nico",
+        "Description":"Effexor estÃ¡ indicado no tratamento da perturbaÃ§Ã£o de pÃ¢nico, com ou sem agorafobia"
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999555",
+    "GenericName":"Zoloft",
+    "CountryBrandId":"9999555",
+    "CountryBrandName":"ZoloftÂ® (sertralina)",
+    "CountryDisplayName":"Zoloft comprimidos e concentrado Oral",
+    "CountryGenericName":"Sertralina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"DepressÃ£o major",
+        "Description":"Zoloft estÃ¡ indicado para episÃ³dios depressivos major. PrevenÃ§Ã£o de recorrÃªncia de episÃ³dios depressivos major."
+      },
+      {
+        "IndicationName":"PerturbaÃ§Ã£o de pÃ¢nico",
+        "Description":""
+      },
+      {
+        "IndicationName":"PerturbaÃ§Ã£o Obsessiva-Compulsiva",
+        "Description":""
+      },
+      {
+        "IndicationName":"PerturbaÃ§Ã£o de ansiedade social",
+        "Description":""
+      },
+      {
+        "IndicationName":"PerturbaÃ§Ã£o de Stress PÃ³s-TraumÃ¡tico",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999147",
+    "GenericName":"Sermion",
+    "CountryBrandId":"9999147",
+    "CountryBrandName":"SermionÂ® (nicergolina)",
+    "CountryDisplayName":"Sermion Comprimidos revestidos por pelÃ­cula Via oral",
+    "CountryGenericName":"Nicergolina",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"DemÃªncia",
+        "Description":"PrevenÃ§Ã£o da recorrÃªncia de episÃ³dios depressivos major."
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999169",
+    "GenericName":"Xanax",
+    "CountryBrandId":"9999169",
+    "CountryBrandName":"XanaxÂ® (alprazolam)",
+    "CountryDisplayName":"Xanax comprimidos via oral",
+    "CountryGenericName":"Alprazolam",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"Ansiedade",
+        "Description":"Estados ansiosos (neuroses de ansiedade): Os sintomas que ocorrem nestes doentes, incluem ansiedade, tensÃ£o, agitaÃ§Ã£o, insÃ³nia, apreensÃ£o, irritabilidade e/ou hiperatividade vegetativa, resultando em queixas somÃ¡ticas variadas. Ansiedade em doentes com depressÃ£o: Sintomas simultÃ¢neos de ansiedade e depressÃ£o ocorrem nestes doentes. Estados de ansiedade associados a outras situaÃ§Ãµes, como, por exemplo, a fase crÃ³nica abstinÃªncia do Ã¡lcool e doenÃ§as funcionais ou orgÃ¢nicas, particularmente certos transtornos gastrintestinais, cardiovasculares ou dermatolÃ³gicos."
+      },
+      {
+        "IndicationName":"PerturbaÃ§Ãµes relacionadas com o pÃ¢nico",
+        "Description":"Xanax estÃ¡ indicado para o tratamento de doenÃ§a de pÃ¢nico, com ou sem evitamento fÃ³bico. Xanax estÃ¡ igualmente indicado para bloqueio ou atenuaÃ§Ã£o dos ataques de pÃ¢nico e fobias em doentes com agorafobia e ataques de pÃ¢nico."
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId":"9999181",
+    "GenericName":"Zyvoxid",
+    "CountryBrandId":"9999181",
+    "CountryBrandName":"ZyvoxidÂ® (linezolid)",
+    "CountryDisplayName":"Zyvoxid",
+    "CountryGenericName":"Linezolida",
+    "Country":"Portugal",
+    "CountryCode":"PT",
+    "Language":"Portuguese",
+    "LanguageCode":"pt",
+    "Indications":[
+      {
+        "IndicationName":"Tratamento da Pneumonia nosocomial",
+        "Description":"Tratamento de infecÃ§Ãµes complicadas da pele e tecidos moles, apenas quando os testes microbiolÃ³gicos estabelecerem que a infecÃ§Ã£o Ã© causada por bactÃ©rias Gram positivas susceptÃ­veis."
+      },
+      {
+        "IndicationName":" Tratamento da infecÃ§Ãµes complicadas da pele e tecidos moles",
+        "Description":"Tratamento de infecÃ§Ãµes complicadas da pele e tecidos moles, apenas quando os testes microbiolÃ³gicos estabelecerem que a infecÃ§Ã£o Ã© causada por bactÃ©rias Gram positivas susceptÃ­veis."
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      },
+      {
+        "IndicationName":"",
+        "Description":""
+      }
+    ]
+  }
+]
